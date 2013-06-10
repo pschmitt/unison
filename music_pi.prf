@@ -1,0 +1,5 @@
+# Unison preferences
+root = /home/pschmitt/music
+root = ssh://pschmitt@alarmpi//home/pschmitt/music
+sshargs = -C
+fat = true

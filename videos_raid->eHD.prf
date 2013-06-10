@@ -1,0 +1,4 @@
+# Unison preferences
+root = /mnt/raid/videos
+root = /media/eHD/videos
+fat = true

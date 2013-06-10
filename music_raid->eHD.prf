@@ -1,0 +1,4 @@
+# Unison preferences
+fat = true
+root = /mnt/raid/audio/music
+root = /media/eHD/music

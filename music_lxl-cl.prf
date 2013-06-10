@@ -1,0 +1,4 @@
+# Unison preferences
+root = /home/pschmitt/music
+root = ssh://pschmitt@laxlinux-cl//home/pschmitt/Music
+sshargs = -C

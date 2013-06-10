@@ -1,0 +1,5 @@
+# Unison preferences
+root = /mnt/raid/docs
+root = ssh://pschmitt@alarmpi//media/eHD/docs
+sshargs = -C
+fat = true

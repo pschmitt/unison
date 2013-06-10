@@ -1,0 +1,4 @@
+# Unison preferences
+root = /home/pschmitt/work
+root = ssh://pschmitt@laxlinux-cl//home/pschmitt/work
+sshargs = -C
